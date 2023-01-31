@@ -43,3 +43,7 @@ This is an implementation of the 8 puzzle problem, solved using the A* search al
 ## Note
 
 The code will exit if the solution is unsolvable, which is determined if the time taken to solve the puzzle is more than 2 seconds.
+
+E-mail: amirhr098@yahoo.com
+
+SocialMedia: @Amirhr098
